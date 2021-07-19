@@ -1,0 +1,26 @@
+body {
+  color: white;
+  background-color: #282c34;
+  overflow: hidden;
+}
+
+.mePerdonas {
+  width: 100vw;
+  height: 100vh;
+  text-align: center;
+}
+
+.teLoSuplico {
+  padding-top: 20%;
+}
+
+.perdonamePorFavor {
+  min-width: 200px;
+  width: 15vw;
+  text-align: center;
+  margin: auto;
+}
+
+.perdoname {
+  max-width: 300px;
+}
